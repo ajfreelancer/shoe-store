@@ -123,7 +123,7 @@ function Section1() {
     //         })
             
     //     });
-    // console.log(data);
+    //console.log(data);
     let ShoesToBeShown = WomenShoes().concat(MenShoes());
     return (
         <Div>
